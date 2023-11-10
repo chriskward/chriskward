@@ -1,6 +1,6 @@
 This is a collection of various projects and notes relating to Machine Learning
 Mathematics and Statistics, created during the course of my career in Data Analytics
-my recent time as a mature student of Mathematics and Statistics at
+my recent time as a mature student of Mathematics, Statistics and Machine Learning at
 The Open University and Birkbeck, University of London.
 
 <br>
