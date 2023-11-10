@@ -11,6 +11,8 @@ The Open University and Birkbeck, University of London.
 A collection of python tools (compatible with Pandas and sklearn) to effectively and efficiently express text in character-n-gram form
 for the purposes of stylistic analysis and authorship classification.
 
+<br>
+
 [Numerical Methods](https://github.com/chriskward/numerical-methods)
 Code and notebooks exploring gradient descent with numpy and curve rectification/interpolation.  
 
