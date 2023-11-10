@@ -14,6 +14,9 @@ for the purposes of stylistic analysis and authorship classification.
 <br>
 
 [Numerical Methods](https://github.com/chriskward/numerical-methods)
-Code and notebooks exploring gradient descent with numpy and curve rectification/interpolation.  
+Code and notebooks exploring gradient descent with numpy and curve rectification/interpolation. 
+
+[Markov Language Model](https://github.com/chriskward/markov-language-model)
+A lightweight character based language model that can be used for text classification and generation
 
 
