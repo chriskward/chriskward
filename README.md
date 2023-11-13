@@ -9,7 +9,7 @@ The Open University and Birkbeck, University of London.
 
 [Stylometry Toolkit](https://github.com/chriskward/stylometry-toolkit)
 A collection of python tools (compatible with Pandas and sklearn) to effectively and efficiently express text in character-n-gram form
-for the purposes of stylistic analysis and authorship classification.
+for the purposes of stylistic analysis and text classification.
 
 <br>
 
@@ -20,8 +20,7 @@ added shortly.
 <br>
 
 [Markov Language Model](https://github.com/chriskward/markov-language-model)
-A lightweight character based language model that can be used for text classification and generation
-
+A lightweight character based language model that can be used for text classification and generation.
 <br>
 
 [Simulation of Random Variables](https://github.com/chriskward/random-variables)
