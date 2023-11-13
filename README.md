@@ -22,4 +22,11 @@ added shortly.
 [Markov Language Model](https://github.com/chriskward/markov-language-model)
 A lightweight character based language model that can be used for text classification and generation
 
+<br>
+
+[Simulation of Random Variables](https://github.com/chriskward/random-variables}
+Create discrete and continuous random variable objects using any probability density or mass function. Generate random samples and carry out probabilistic calculations.
+The code in this repo applies many of the functions developed in [numerical methods](https://github.com/chriskward/numerical-methods)
+
+
 
