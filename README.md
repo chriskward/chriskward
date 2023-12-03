@@ -31,7 +31,7 @@ The code in this repo applies many of the functions developed in numerical-metho
 <br>
 
 [Mandelbrot Set Generator](https://github.com/chriskward/mandelbrot-torch)
-Use PyTorch to explore the Mandelbrot set. If a suitable GPU is available, this function can render high resolution views of the mandelbrot several orders of magnitude
+Use PyTorch to explore the Mandelbrot set. If a suitable GPU is available, this function can generate high resolution views of the mandelbrot several orders of magnitude
 faster than typical renderers.
 
 
