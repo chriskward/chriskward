@@ -28,5 +28,11 @@ A lightweight character based language model that can be used for text classific
 Create discrete and continuous random variable objects using any probability density or mass function. Generate random samples and carry out probabilistic calculations.
 The code in this repo applies many of the functions developed in numerical-methods (see above)
 
+<br>
+
+[Mandelbrot Set Generator](https://github.com/chriskward/mandelbrot-torch)
+Use PyTorch to explore the Mandelbrot set. If a suitable GPU is available, this function can render high resolution views of the mandelbrot several orders of magnitude
+faster than typical renderers.
+
 
 
